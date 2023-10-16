@@ -1,4 +1,4 @@
-# bigipf5-upload-sslcerts-sftp
+![image](https://github.com/goksinenki/bigipf5-upload-sslcerts-sftp/assets/917944/9cf20a1d-c9e3-4bce-9b5d-e3947eb9aaa4)# bigipf5-upload-sslcerts-sftp
 A script to upload new ssl certificates to multiple F5 LTM Load Balancers and create SSL certificates on devices
 
 Tested on Windows with PyCharm
@@ -24,7 +24,12 @@ DigiCertRootG2.crt
 sslfilename.crt
 sslfilename.key
 
+![image](https://github.com/goksinenki/bigipf5-upload-sslcerts-sftp/assets/917944/d98b03b5-09d0-4934-a23e-1eb48d853ca0)
+
+
 You can contact me if you need
+
+
 
 Bye 
 
