@@ -13,6 +13,17 @@ install /sys crypto key SSLcertname from-local-file /config/ssl/ssl.key/SSLcertn
 install /sys crypto cert DigiCertRootG2 from-local-file /config/ssl/ssl.crt/DigiCertRootG2.crt
 
 
+bigipf5ips.txt content example 
+
+IP1
+IP2
+
+filenames.txt content example 
+
+DigiCertRootG2.crt
+sslfilename.crt
+sslfilename.key
+
 You can contact me if you need
 
 Bye 
