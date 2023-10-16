@@ -1,4 +1,4 @@
-![image](https://github.com/goksinenki/bigipf5-upload-sslcerts-sftp/assets/917944/9cf20a1d-c9e3-4bce-9b5d-e3947eb9aaa4)# bigipf5-upload-sslcerts-sftp
+# bigipf5-upload-sslcerts-sftp
 A script to upload new ssl certificates to multiple F5 LTM Load Balancers and create SSL certificates on devices
 
 Tested on Windows with PyCharm
